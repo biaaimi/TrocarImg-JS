@@ -1,0 +1,24 @@
+#quadro{
+    width: 465px;
+    text-align: center;
+    border-radius: 3px;
+    overflow: hidden;
+    border: 2px solid black;
+    padding: 1%;
+}
+
+#titulo{
+    font-family: Reggae One;
+    font-size: 30px;
+}
+
+#subtitulo{
+    font-family: Abel;
+    font-size: medium;
+}
+
+#clique{
+    font-family: Reggae One;
+    color: white;
+    background-color: black;
+}
